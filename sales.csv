@@ -1,0 +1,6 @@
+id,product,category,price,quantity,total
+1,Keyboard,Peripheral,25,2,50
+2,Mouse,Peripheral,15,3,45
+3,Monitor,Display,200,1,200
+4,Laptop Stand,Accessory,35,1,35
+5,USB Cable,Accessory,5,4,20
